@@ -1,0 +1,5 @@
+ifs24001|Alice|100
+ifs24002|Bob|100
+ifs24003|Charlie|100
+ifs24004|Diana|100
+ifs24005|Eve|100

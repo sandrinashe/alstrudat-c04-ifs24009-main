@@ -1,0 +1,13 @@
+4
+ifs24001
+Alice
+70
+ifs24002
+Bob
+70
+ifs24003
+Charlie
+70
+ifs24004
+Diana
+70

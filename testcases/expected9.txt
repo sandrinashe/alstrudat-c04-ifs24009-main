@@ -1,0 +1,3 @@
+ifs24001|Alice|78
+ifs24002|Bob|62
+ifs24003|Charlie|45
