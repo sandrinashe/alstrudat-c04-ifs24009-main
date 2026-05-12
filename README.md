@@ -15,14 +15,14 @@ Logika pengurutan ini harus kamu implementasikan sendiri di dalam file `Program.
 
 ## Ketentuan
 
-| Atribut | Ketentuan |
-|---------|-----------|
-| Jumlah mahasiswa (`n`) | Bilangan bulat positif, 1 ≤ n ≤ 100 |
-| NIM | String tanpa spasi, contoh: `ifs24001` |
-| Nama | String tanpa spasi, contoh: `Alice` |
-| Nilai | Bilangan bulat, 0 ≤ Nilai ≤ 100 |
-| Algoritma | Wajib menggunakan **Merge Sort** |
-| File yang diubah | Hanya **Program.java** |
+| Atribut                   | Ketentuan                                 |
+|---------------------------|-------------------------------------------|
+| Jumlah mahasiswa (`n`)    | Bilangan bulat positif, 1 ≤ n ≤ 100       |
+| NIM                       | String tanpa spasi, contoh: `ifs24001`    |
+| Nama                      | String tanpa spasi, contoh: `Alice`       |
+| Nilai                     | Bilangan bulat, 0 ≤ Nilai ≤ 100           |
+| Algoritma                 | Wajib menggunakan **Merge Sort**          |
+| File yang diubah          | Hanya **Program.java**                    |
 
 ---
 
@@ -91,9 +91,9 @@ ifs24003|Charlie|85
 **Penjelasan langkah per langkah:**
 
 1. Program membaca 3 data mahasiswa:
-   - `ifs24001` | Alice | 85
-   - `ifs24002` | Bob | 90
-   - `ifs24003` | Charlie | 85
+   - `ifs24001` | Alice     | 85
+   - `ifs24002` | Bob       | 90
+   - `ifs24003` | Charlie   | 85
 
 2. Diurutkan berdasarkan Nilai secara descending:
    - Bob (90) → urutan pertama karena nilai tertinggi
@@ -114,13 +114,13 @@ ifs24003|Charlie|85
 
 ## Source Codes
 
-| No | File | Status | Deskripsi |
-|----|------|--------|-----------|
-| 1 | `App.java` | Jangan diubah | Menangani input dari user dan menampilkan output |
-| 2 | `Student.java` | Jangan diubah | Representasi objek data mahasiswa |
-| 3 | `Program.java` | **Wajib diisi** | Tempat kamu mengimplementasikan Merge Sort |
+| No    | File              | Status            | Deskripsi                                         |
+|-------|-------------------|-------------------|---------------------------------------------------|
+| 1     | `App.java`        | Jangan diubah     | Menangani input dari user dan menampilkan output  |
+| 2     | `Student.java`    | Jangan diubah     | Representasi objek data mahasiswa                 |
+| 3     | `Program.java`    | **Wajib diisi**   | Tempat kamu mengimplementasikan Merge Sort        |
 
-> ⚠️ Kamu hanya perlu mengubah file `Program.java`. Jangan mengubah file lainnya karena dapat menyebabkan test case gagal.
+> ⚠️ hanya perlu mengubah file `Program.java`. Jangan mengubah file lainnya karena dapat menyebabkan test case gagal.
 
 ---
 
